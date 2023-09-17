@@ -2,7 +2,7 @@ package Replit;
 
 import java.util.Scanner;
 
-public class Scanner01 {
+public class Scanner03 {
     public static void main(String[] args) {
 
      /* Kullanıcıdan dikdörtgenin kenar uzunluklarını alın ve dikdörtgenin alanını
